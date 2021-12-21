@@ -4,6 +4,7 @@ We use segmentation model to feed exact cat boundary to CLIP model
 ### Our segmentation model
 - Head : Segformer
 - Backbone : swinT
+- library : mmsegmentation
 
 
 ## Requirements
